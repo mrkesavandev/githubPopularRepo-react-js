@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.card-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #f8f8ff;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 300px;
+  margin: 5px;
+  cursor: pointer;
+  align-items: center;
+}
+.h1 {
+  color: #e73959;
+}
+.card-img {
+  width: 100px;
+  margin-top: 10px;
+}
+
+.card-details {
+  display: flex;
+  font-size: 20px;
+  margin-bottom: 6px;
+  align-items: center;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 16px;
+}
